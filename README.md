@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser,
-or [https://organo-ederrosso.vercel.app/](Page_hosted_on_Vercel)
+or [Page_hosted_on_Vercel](https://organo-ederrosso.vercel.app/)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
